@@ -22,11 +22,11 @@ from machine import Pin
   ```
 IO index | ESP8266 pin    | IO index | ESP8266 pin|
 ----------- | -------------------- | ------------- | -------------------
-D0			| GPIO16	|	D7					| 		GPIO13
-D1			| GPIO5		 |	 D8		 	 		|	GPIO15
-D2			| GPIO4		 |	 D9		 	 		|	GPIO3
-D3			| GPIO0		 |	 D10			   |	GPIO1
-D4			| GPIO2		 |	 D11	 		   |	GPIO9
-D5			| GPIO14	|	D12		   		  |	GPIO10
+D0			| GPIO16	|	D7 |  GPIO13
+D1			| GPIO5		 |	 D8 |	GPIO15
+D2			| GPIO4		 |	 D9 |	GPIO3
+D3			| GPIO0		 |	 D10 |	GPIO1
+D4			| GPIO2		 |	 D11 |	GPIO9
+D5			| GPIO14	|	D12 |	GPIO10
 D6			| GPIO12	| 	 
 	
