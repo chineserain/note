@@ -20,7 +20,7 @@ from machine import Pin
  p16.on()
  p16.off()
   ```
-![](NODEMCU_DEVKIT_V1.0_PINMAP.png)
+![](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/master/Documents/NODEMCU-DEVKIT-INSTRUCTION-EN.png)
 IO index | ESP8266 pin    | IO index | ESP8266 pin|
 ----------- | -------------------- | ------------- | -------------------
 D0			| GPIO16	|	D7 |  GPIO13
